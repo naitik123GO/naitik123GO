@@ -1,5 +1,5 @@
 # Hi there 👋. I am Naitik
-[Linkedin](/https://www.linkedin.com/in/naitik-singh-57a42018b/.md)
+[Linkedin](/https://www.linkedin.com/in/naitik-singh-57a42018b/)
 
 ## Glad to see you here
 
