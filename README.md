@@ -1,5 +1,5 @@
 # Hi there 👋. I am Naitik
-/https://www.linkedin.com/in/naitik-singh-57a42018b/
+[Contribution guidelines for this project](docs/https://www.linkedin.com/in/naitik-singh-57a42018b/.md)
 
 ## Glad to see you here
 
