@@ -1,5 +1,4 @@
- Hi there 👋. I am Naitik
-
+## Hi there 👋. I am Naitik ##
 Glad to see you here 
 I am a Data Analyst, Story teller and i love to take part in decision making.
 
