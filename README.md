@@ -1,4 +1,5 @@
 # Hi there 👋. I am Naitik
+/https://www.linkedin.com/in/naitik-singh-57a42018b/
 
 ## Glad to see you here
 
@@ -9,10 +10,14 @@ As a data analyst i use my skill to help company improve their sales or reduce t
  
 ### Talking about my personal stuff
  I am currently working on doing more and more projects to gain some real time experience
+ 
  I am currently learning python as well
+ 
  I always try to keep myself updated about the latest technological advancement in my field
  
- How to reach me: singhnaitik06@gmail.com
+ ### How to reach me:
+ singhnaitik06@gmail.com
+ 
+[Resume-NAITIK.pdf](https://github.com/naitik123GO/naitik123GO/files/11012160/Resume-NAITIK.pdf)
 
-Resume
- https://docs.google.com/document/d/19oQrUXwTacU_XuVpFgBx-MYc4KvNG112xIR8u979Qkw/edit?usp=sharing
+ 
