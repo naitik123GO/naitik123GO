@@ -1,5 +1,5 @@
 # Hi there 👋. I am Naitik
-[linkedin](https://www.linkedin.com/in/naitik-singh-57a42018b/.md)
+[LinkedIn](https://www.linkedin.com/in/naitik-singh-57a42018b/.md) [Instagram](https://instagram.com/_its_.naitik?igshid=YmMyMTA2M2Y=.md)
 
 ## Glad to see you here
 
